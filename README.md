@@ -22,6 +22,7 @@ Consolidated legacy systems into one booking platform and back office. 90% of bo
 
 **[Vaiie Identify](https://jonleverrier.com/case-study/vaiie-identify-product-design)** · RegTech
 Redesigned the identity verification journey around its sticking points and unhappy paths. Successful verifications went up 4x without changing the vendor's technology, and Vaiie became a government-approved digital identity platform.
+
 #### Side projects
 
 - **[StreetPal](https://jonleverrier.com/case-study/streetpal-ios-app-design-development)**: a native iOS walking app for street photographers, built in Swift with MapKit, WeatherKit and HealthKit. It's in beta now.
