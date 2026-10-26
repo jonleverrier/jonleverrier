@@ -6,10 +6,9 @@ I design experiences that reveal the value hidden inside complex products or ser
 
 #### Current focus
 
-- Designing and building for **[White Paper](https://jonleverrier.com/case-study/white-paper-booking-engine-design-development)** and **[Vaiie](https://jonleverrier.com/case-study/vaiie-identify-product-design)**, both long-term product partners
-- Taking **[StreetPal](https://jonleverrier.com/case-study/streetpal-ios-app-design-development)**, my iOS app for street photographers, through beta
-- Working as an AI-native designer: AI for research, analysis and prototyping, with my own judgement making the decisions
-- Building small, focused tools such as **[Homepage Audit](https://jonleverrier.com/tools/homepage-audit)**
+Bespoke AI tooling for creative work and product development.
+
+Right now I'm improving the context for a Claude-powered copilot for an existing client, plus a sentiment tracker and a homepage segmentation reporting tool. There's some bespoke creative tooling in the mix too — small, focused tools built for one job, like [Showboard](https://jonleverrier.com/notes/introducing-showboard).
 
 #### Recent work
 
