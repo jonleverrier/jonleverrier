@@ -1,6 +1,6 @@
 ### Hi, I'm Jon 👋
 
-I'm a staff product designer and design engineer. I've spent 25 years making things for the web, and I split my time between Jersey and Bordeaux.
+I'm a product designer and design engineer, and I split my time between Jersey and Bordeaux.
 
 I design experiences that reveal the value hidden inside complex products or services, from research to release. Most of that work is in **RegTech**, **EventTech** and **PropTech**, where the product has to work for the business, the regulator and the customer all at once. I work across the strategy, the journeys, the design system and the code that ships it. I build what I design, so nothing gets watered down in a handover.
 
