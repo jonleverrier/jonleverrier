@@ -1,8 +1,8 @@
 ### Hi, I'm Jon 👋
 
-I'm a product designer and design engineer, and I split my time between Jersey and Bordeaux.
+Product designer who simplifies complex RegTech, EventTech and PropTech products: client onboarding, identity verification, booking engines and the design systems underneath them.
 
-I design experiences that reveal the value hidden inside complex products or services, from research to release. Most of that work is in **RegTech**, **EventTech** and **PropTech**, where the product has to work for the business, the regulator and the customer all at once. I work across the strategy, the journeys, the design system and the code that ships it. I build what I design, so nothing gets watered down in a handover.
+I design experiences that reveal the value hidden inside complex products or services, from research to release.
 
 #### Current focus
 
