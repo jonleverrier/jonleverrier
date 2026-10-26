@@ -8,7 +8,10 @@ I design experiences that reveal the value hidden inside complex products or ser
 
 Bespoke AI tooling for creative work and product development.
 
-Right now I'm improving the context for a Claude-powered copilot for an existing client, plus a sentiment tracker and a homepage segmentation reporting tool. There's some bespoke creative tooling in the mix too — small, focused tools built for one job, like [Showboard](https://jonleverrier.com/notes/introducing-showboard).
+- Improving the context for a Claude-powered copilot for an existing client
+- A sentiment tracker
+- A homepage segmentation reporting tool
+- Bespoke creative tooling: small, focused tools built for one job, like [Showboard](https://jonleverrier.com/notes/introducing-showboard)
 
 #### Recent work
 
