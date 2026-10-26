@@ -38,4 +38,4 @@ Redesigned the identity verification journey around its sticking points and unha
 
 #### Connect
 
-[Website](https://jonleverrier.com) · [Book a call](https://cal.com/jonleverrier/intro) · [LinkedIn](https://www.linkedin.com/in/jonleverrier) · [Malt](https://www.malt.com/profile/jonleverrier) · [Instagram](https://www.instagram.com/jonleverrier) · [Flickr](https://www.flickr.com/photos/jonleverrier)
+[Website](https://jonleverrier.com) · [Book a call](https://cal.com/jonleverrier/intro) · [LinkedIn](https://www.linkedin.com/in/jonleverrier)
