@@ -1,3 +1,5 @@
+<img src="assets/jonleverrier.png" alt="Portrait of Jon Leverrier rendered as a scattered point cloud on an olive green background" width="100%" />
+
 ### Hi, I'm Jon 👋
 
 Product designer who simplifies complex RegTech, EventTech and PropTech products: client onboarding, identity verification, booking engines and the design systems underneath them.
