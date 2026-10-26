@@ -22,11 +22,9 @@ Redesigned the identity verification journey around its sticking points and unha
 **Vaiie Onboard** · RegTech
 Onboarding for complex ownership structures. My working HTML prototype became the project's single source of truth and helped secure internal investment from Jersey Post.
 
-**[StreetPal](https://jonleverrier.com/case-study/streetpal-ios-app-design-development)** · iOS
-A native walking app for street photographers, built in Swift with MapKit, WeatherKit and HealthKit.
+#### Side projects
 
-#### Open source
-
+- **[StreetPal](https://jonleverrier.com/case-study/streetpal-ios-app-design-development)**: a native iOS walking app for street photographers, built in Swift with MapKit, WeatherKit and HealthKit. It's in beta now.
 - **[craft-breadcrumb](https://github.com/youandmedigital/craft-breadcrumb)**: a Craft CMS 5 plugin that generates a simple breadcrumb array for you to style in Twig. It handles multisite and different element types, and can output `BreadcrumbList` schema.
 - **[Showboard](https://jonleverrier.com/notes/introducing-showboard)**: a free browser tool that turns screenshots into an angled presentation shot, with PNG export up to 5000px. Everything runs in your browser.
 
