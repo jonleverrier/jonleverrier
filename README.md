@@ -2,7 +2,7 @@
 
 ### Hi, I'm Jon 👋
 
-Product designer who simplifies complex RegTech, EventTech and PropTech products: client onboarding, identity verification, booking engines and the design systems underneath them.
+I'm a product designer who simplifies complex RegTech, EventTech and PropTech products: client onboarding, identity verification, booking engines and the design systems underneath them.
 
 I design experiences that reveal the value hidden inside complex products or services, from research to release.
 
